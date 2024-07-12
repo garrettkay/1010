@@ -1,0 +1,10 @@
+space for b3  --
+space for h5  --
+space for v5  --
+squares on board  --
+score  --
+holes
+discontinuous lines, size of gaps
+surface area
+unplayable                            --
+number of rows or columns occupied    --
